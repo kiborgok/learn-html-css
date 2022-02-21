@@ -1,0 +1,16 @@
+*{
+  margin: 0;  
+}
+
+body{
+    color: brown;
+}
+
+#nav{
+    background-color: aquamarine;
+}
+
+#content{
+    margin: 20px;
+    padding: 10px;
+}
